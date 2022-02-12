@@ -19,7 +19,7 @@
 🌱 &nbsp;I'm on track for learning more about Computer Networks, Operating Systems, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at rupeshdharme200001@gmail.com! I'll try to respond as soon as I can.
 
-<hr>
+
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150"  src="images/minecraft-man.gif"></a>
 
@@ -29,13 +29,13 @@
 - Competing on <a href="https://www.codechef.com/users/rupesh_dharme">CodeChef</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/rupeshdharme/">LinkedIn</a> 😇
 
-<hr>
+
 
 ## Watch my contributions get eaten by a snake 🐍
 
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
-<hr>
+
 
 ## Technologies
 
@@ -79,14 +79,14 @@
   <!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> -->
 </p>
 
-<hr>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh-dharme&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
-<hr>
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-dharme&layout=compact&theme=cobalt&hide_border=true" />
 
-<hr>
+
 
 ## Contact me
 
