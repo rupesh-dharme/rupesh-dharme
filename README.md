@@ -1,8 +1,6 @@
 # Hi, I'm Rupesh 👋🏻👨🏻‍💻
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/tanyarajhans7?label=Follow)](https://twitter.com/intent/follow?screen_name=tanyarajhans7) -->
-
-[![Linkedin: Tanya](https://img.shields.io/badge/-Rupesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupeshdharme/)](https://www.linkedin.com/in/rupeshdharme)
+[![Linkedin: Rupesh](https://img.shields.io/badge/-Rupesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupeshdharme/)](https://www.linkedin.com/in/rupeshdharme)
 ![GitHub followers](https://img.shields.io/github/followers/rupesh-dharme?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rupesh-dharme&color=brightgreen">
 
@@ -79,7 +77,7 @@
   <!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> -->
 </p>
 
-
+## Github stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh-dharme&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
 
