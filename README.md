@@ -33,7 +33,7 @@
 
 <!-- ![snake gif](https://github.com/rupesh-dharme/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
-![snake gif](https://github.com/rupesh-dharme/rupesh-dharme/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rupesh-dharme/rupesh-dharme/blob/output/github-contribution-grid-snake.svg)
 
 
 
