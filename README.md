@@ -1,4 +1,4 @@
-# Hi, I'm Rupesh 👋🏻👨🏻‍💻
+# Namaste, My name is Rupesh <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><img src="https://media4.giphy.com/media/259aIp7etgoXSNijRM/giphy.webp?cid=ecf05e47awgql5pl3x5dm6gt6mnhk0kma7pi0loegvt64s6d&rid=giphy.webp&ct=s" width=30>👨🏻‍💻
 
 [![Linkedin: Rupesh](https://img.shields.io/badge/-Rupesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rupeshdharme/)](https://www.linkedin.com/in/rupeshdharme)
 ![GitHub followers](https://img.shields.io/github/followers/rupesh-dharme?label=Follow&style=social)
@@ -15,7 +15,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at Pune Institute of Computer Technology, Pune.\
 💡 &nbsp;Some technologies I enjoy working with include C++, Python, ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring full stack web development tools.\
 🌱 &nbsp;I'm on track for learning more about Computer Networks, Operating Systems, and Algorithms.\
-✉️ &nbsp;You can shoot me an email at rupeshdharme200001@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can email me at rupeshdharme200001@gmail.com and I'll get back to you.
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150"  src="images/minecraft-man.gif"></a>
 
@@ -36,12 +36,17 @@
 ### Programming and Scripting languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
 </p>
 
 ### Libraries and Frameworks
@@ -90,8 +95,9 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rupesh_dharme/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rupeshdharme)
 
----
 
-<p align="center">Made with ❤️ by Rupesh Dharme </p>
+<!-- <p align="center">Made with ❤️ by Rupesh Dharme </p> -->
 <p align="center">
 </p>
+
+![Bottom](images/bottom_header.svg)
