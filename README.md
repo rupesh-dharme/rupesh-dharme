@@ -17,8 +17,6 @@
 🌱 &nbsp;I'm on track for learning more about Computer Networks, Operating Systems, and Algorithms.\
 ✉️ &nbsp;You can shoot me an email at rupeshdharme200001@gmail.com! I'll try to respond as soon as I can.
 
-
-
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150"  src="images/minecraft-man.gif"></a>
 
 <!-- <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> -->
@@ -27,15 +25,11 @@
 - Competing on <a href="https://www.codechef.com/users/rupesh_dharme">CodeChef</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/rupeshdharme/">LinkedIn</a> 😇
 
-
-
 ## Watch my contributions get eaten by a snake 🐍
 
 <!-- ![snake gif](https://github.com/rupesh-dharme/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
 ![snake gif](https://github.com/rupesh-dharme/rupesh-dharme/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ## ⚙ Technologies
 
@@ -51,6 +45,7 @@
 </p>
 
 ### Libraries and Frameworks
+
 <p>
   <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -72,6 +67,7 @@
 </p> -->
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
@@ -85,18 +81,17 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-dharme&layout=compact&theme=cobalt&hide_border=true" />
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-dharme&langs_count=6&hide=jupyter%20notebook&layout=compact&theme=cobalt&hide_border=true" />
 
 ## 🤝🏻 Contact me
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/rupesh-dharme) 
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/rupesh-dharme)
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rupesh.dharme.33/)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rupesh_dharme/) 
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rupesh_dharme/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rupeshdharme)
 
 ---
+
 <p align="center">Made with ❤️ by Rupesh Dharme </p>
 <p align="center">
 </p>
