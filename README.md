@@ -17,21 +17,16 @@
 🌱 &nbsp;I'm on track for learning more about Computer Networks, Operating Systems, and Algorithms.\
 ✉️ &nbsp;You can email me at rupeshdharme200001@gmail.com and I'll get back to you.
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150"  src="images/minecraft-man.gif"></a>
+## Find me around the web <img height="25" width="25" src="https://img.icons8.com/dotty/2x/running.png" /> <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150"  src="images/minecraft-man.gif"></a>
 
 <!-- <a href="https://www.linkedin.com/in/rupeshdharme/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> -->
 
-- Struggling on <a href="https://leetcode.com/rupesh_dharme/">LeetCode</a> 😍
-- Competing on <a href="https://www.codechef.com/users/rupesh_dharme">CodeChef</a> 🙃
-- Sharing updates on <a href="https://www.linkedin.com/in/rupeshdharme/">LinkedIn</a> 😇
+- Learning on <a href="https://leetcode.com/rupesh_dharme/">LeetCode</a> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="16" width="16">
+- Competing on <a href="https://www.codechef.com/users/rupesh_dharme">CodeChef</a> <img src="https://img.icons8.com/color/2x/codechef.png" height="16" width="16">
+- Getting inspired on <a href="https://www.linkedin.com/in/rupeshdharme/">LinkedIn</a> <img height="16" width="16" src="https://img.icons8.com/fluency/2x/linkedin.png" />
 
-## Watch my contributions get eaten by a snake 🐍
 
-<!-- ![snake gif](https://github.com/rupesh-dharme/Actions/blob/output/github-contribution-grid-snake.svg) -->
-
-![snake gif](https://github.com/rupesh-dharme/rupesh-dharme/blob/output/github-contribution-grid-snake.svg)
-
-## ⚙ Technologies
+## <img src="https://img.icons8.com/external-flatarticons-blue-flatarticons/2x/external-gear-design-thinking-flatarticons-blue-flatarticons.png" height="16" width="16"> Technologies
 
 ### Programming and Scripting languages
 
@@ -42,28 +37,33 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> -->
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+  <img height="32" width="32" src="https://img.icons8.com/color/2x/python.png" />
+  <img height="32" width="32" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" />
+  <img height="32" width="32" src="https://img.icons8.com/color/2x/html-5.png" />
+  <img height="32" width="32" src="https://img.icons8.com/color/2x/css3.png" />
+  <img height="32" width="32" src="https://img.icons8.com/color/2x/javascript.png" />
 </p>
 
 ### Libraries and Frameworks
 
 <p>
+<img height="32" width="32" src="https://img.icons8.com/color/2x/nodejs.png" />&nbsp;
+<img height="32" width="32" src="https://img.icons8.com/office/2x/react.png" />&nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/bootstrap.png" />&nbsp;
+<img height="32" width="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" />&nbsp;
+<img height="32" width="32" src="https://img.icons8.com/color/2x/django.png" />
   <!-- <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
   <!-- <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -74,9 +74,11 @@
 ### Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img height="32" width="32" src="https://img.icons8.com/color/2x/mysql-logo.png" />&nbsp;
+<img height="32" width="32" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/2x/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" />
+  <!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> -->
 </p>
 
@@ -88,13 +90,18 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-dharme&langs_count=6&hide=jupyter%20notebook&layout=compact&theme=cobalt&hide_border=true" />
 
-## 🤝🏻 Contact me
+## <img height="25" width="25" src="https://img.icons8.com/color/2x/snake.png" /> Watch my contributions get eaten by a snake
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/rupesh-dharme)
-[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rupesh.dharme.33/)
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/rupesh_dharme/)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rupeshdharme)
+<!-- ![snake gif](https://github.com/rupesh-dharme/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
+![snake gif](https://github.com/rupesh-dharme/rupesh-dharme/blob/output/github-contribution-grid-snake.svg)
+
+## <img height="25" width="25" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-hand-shake-woman-day-justicon-flat-justicon.png" /> Contact me
+
+[<img height="32" width="32" src="https://img.icons8.com/ios-filled/2x/github.png" />](https://github.com/rupesh-dharme)
+[<img height="32" width="32" src="https://img.icons8.com/color/2x/facebook-new.png" />](https://www.facebook.com/rupesh.dharme.33/)
+[<img height="32" width="32" src="https://img.icons8.com/color/2x/instagram-new.png" />](https://www.instagram.com/rupesh_dharme/)
+[<img height="32" width="32" src="https://img.icons8.com/fluency/2x/linkedin.png" />](https://www.linkedin.com/in/rupeshdharme)
 
 <!-- <p align="center">Made with ❤️ by Rupesh Dharme </p> -->
 <p align="center">
