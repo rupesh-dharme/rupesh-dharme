@@ -20,6 +20,8 @@
 - Competing on <a href="https://www.codechef.com/users/rupesh_dharme">CodeChef</a> <img src="https://img.icons8.com/color/2x/codechef.png" height="16" width="16">
 - Getting inspired on <a href="https://www.linkedin.com/in/rupeshdharme/">LinkedIn</a> <img height="16" width="16" src="https://img.icons8.com/fluency/2x/linkedin.png" />
 
+<br><br><br><br>
+
 ## <img height="25" width="25" src="https://img.icons8.com/color/2x/snake.png" /> Watch my contributions get eaten by a snake
 
 ![snake gif](https://github.com/rupesh-dharme/rupesh-dharme/blob/output/github-contribution-grid-snake.svg)
