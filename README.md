@@ -57,9 +57,9 @@
 
 ## 💻 &nbsp;Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh-dharme&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rupesh-dharme&show_icons=true&include_all_commits=true" alt="My github stats" />
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-dharme&langs_count=6&hide=jupyter%20notebook&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupesh-dharme&langs_count=6&hide=jupyter%20notebook&layout=compact" />
 
 ## <img height="25" width="25" src="https://img.icons8.com/external-justicon-flat-justicon/2x/external-hand-shake-woman-day-justicon-flat-justicon.png" /> Contact me
 
